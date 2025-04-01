@@ -9,7 +9,7 @@ The second (and, luckily, final) implementation is not far from the first one. T
 ![3D Jet](./3djet.png)
 
 On these 2D images, I applied **quanvolution**, where each 2×2 patch is processed by the following small quantum circuit with random parameters:  
-![Proposed Quantum Circuit](./jets.png)
+![Proposed Quantum Circuit](./quantum_kernel.png)
 
 Below is a concise three-step description of the **quanvolution** process as shown in your `quanvolve(image)` function:
 1. **Flatten & Normalize a 2×2 Patch**  
