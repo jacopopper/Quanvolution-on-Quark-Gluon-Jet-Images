@@ -25,6 +25,6 @@ The idea behind all of this, and what fascinates me the most, is that, by using 
 
 **Conclusion:**  
 The quantum component was implemented using Pennylane, it's the library I know and like the most.
-![Model Performance](./jets.png)
+![Model Performance](./performance.png)
 
 The performance of the model is not fantastic but I will give it at least a **promising** grade since I used only 100k jets, a pretty simple quantum circuit and my poor pc to do the computation.
