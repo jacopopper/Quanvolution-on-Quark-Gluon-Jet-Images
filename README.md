@@ -28,3 +28,4 @@ The quantum component was implemented using Pennylane, it's the library I know a
 ![Model Performance](./performance.png)
 
 The performance of the model is not fantastic but I will give it at least a **promising** grade since I used only 100k jets, a pretty simple quantum circuit and my poor pc to do the computation.
+I really enjoy working with quantum convolution, I find it really fascinating and I would love to have the opportunity to work on it more.
